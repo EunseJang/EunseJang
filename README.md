@@ -5,12 +5,14 @@
 
 
 
-
-- 👋 Hi, I’m @EunseJang
+<div align="center">
+<br> INTRODUCE MYSELF <Br>
+<p>👋 Hi, I’m @EunseJang<br>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+</div>
 
 <!---
 EunseJang/EunseJang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
